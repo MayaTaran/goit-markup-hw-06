@@ -355,9 +355,6 @@ header .container {
 .portfolio-card:first-child {
   width: calc((100% - 48px) / 3);
 }
-.portfolio .title-second {
-  margin-bottom: 72px;
-}
 .cont-card {
   position: relative;
   overflow: hidden;
